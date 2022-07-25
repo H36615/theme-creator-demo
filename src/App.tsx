@@ -1,20 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import SelectionPanel from './features/SelectionPanel';
-import PreviewPanel from './features/PreviewPanel';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"
-        style={{
-          display: "flex",
-          flexDirection: "row",
-          height: "100vh",
-        }}>
+      <header className="App-header">
         <SelectionPanel/>
-        <PreviewPanel/>
         {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
