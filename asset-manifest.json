@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/H36615/theme-creator-demo/static/css/main.18e8e4f7.css",
-    "main.js": "/H36615/theme-creator-demo/static/js/main.7db00fd1.js",
-    "static/js/787.bba2fd5a.chunk.js": "/H36615/theme-creator-demo/static/js/787.bba2fd5a.chunk.js",
-    "index.html": "/H36615/theme-creator-demo/index.html",
-    "main.18e8e4f7.css.map": "/H36615/theme-creator-demo/static/css/main.18e8e4f7.css.map",
-    "main.7db00fd1.js.map": "/H36615/theme-creator-demo/static/js/main.7db00fd1.js.map",
-    "787.bba2fd5a.chunk.js.map": "/H36615/theme-creator-demo/static/js/787.bba2fd5a.chunk.js.map"
+    "main.css": "/theme-creator-demo/static/css/main.18e8e4f7.css",
+    "main.js": "/theme-creator-demo/static/js/main.02629a46.js",
+    "static/js/787.bba2fd5a.chunk.js": "/theme-creator-demo/static/js/787.bba2fd5a.chunk.js",
+    "index.html": "/theme-creator-demo/index.html",
+    "main.18e8e4f7.css.map": "/theme-creator-demo/static/css/main.18e8e4f7.css.map",
+    "main.02629a46.js.map": "/theme-creator-demo/static/js/main.02629a46.js.map",
+    "787.bba2fd5a.chunk.js.map": "/theme-creator-demo/static/js/787.bba2fd5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18e8e4f7.css",
-    "static/js/main.7db00fd1.js"
+    "static/js/main.02629a46.js"
   ]
 }
